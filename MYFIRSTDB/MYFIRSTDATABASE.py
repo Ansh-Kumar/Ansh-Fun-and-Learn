@@ -83,28 +83,3 @@ c = conn.cursor()
 ##c.execute('UPDATE firstTable SET value = 26 WHERE value = 8 OR value < 3')
 ##c.execute('DELETE FROM firstTable WHERE value = 26')
 ##conn.commit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
